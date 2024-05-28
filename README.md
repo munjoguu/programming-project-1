@@ -1,2 +1,4 @@
-# programming-project-1
-Hello world
+// program to assist new students in selecting co-curricular activities
+#include <iostream>
+using namespacestd;
+
