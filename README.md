@@ -183,31 +183,11 @@ int main() {
 
     } while (choice != 7);
 
-    return
+    return 0;
   
   
   
   
   
-About
-this repository is for a program
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2024 GitHub, Inc.
 
