@@ -1,4 +1,4 @@
-# hello-world 1st Lysa's project
+# hello-world Lysa's 1st project
 //program to compute co curricular activities for new students
 #include <iostream>
 #include <vector>
